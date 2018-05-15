@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 title: How to make a new blog post
 ---
@@ -25,6 +25,8 @@ The new post is now saved in the **_drafts** folder.
 
 After you have finished making all your changes, on the toolbare above, click in the **Draft to Post** text (it is basically a button)
   - It will move the post from **_drafts** to **_posts** it will not yet be published out to the world to see, one more step.
+
+If you are very happy with how it looks, You will want to now click on the **Unpublished** text on the toolbar.
   
   
 
