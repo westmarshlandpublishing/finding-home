@@ -21,5 +21,7 @@ title: How to make a new blog post
       - you can add a comment in the box before you click commit if you want to add some notes for future reference. (such as what did you change, are there things you need to follow up on, etc.)
 
 
+The new post is now saved in the **_drafts** folder.
+
 ### Help in formatting
 Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
