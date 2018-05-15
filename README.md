@@ -1,2 +1,2 @@
 # Finding Home Blog Site
-- Author: Erica Morton
+Author: *Erica Morton*
