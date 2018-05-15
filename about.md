@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-West Marshland Publishing is a small digital publishing company.
+Finding Home is ...
 
 ### More Information
 
